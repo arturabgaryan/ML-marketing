@@ -7,7 +7,7 @@ The Marketing Recommender System is an AI-powered tool that helps businesses opt
 
 This repository contains the source code and resources for the Marketing Recommender System. It includes a user-friendly interface, data preprocessing capabilities, machine learning model training, and recommendation generation functionalities.
 
-#### Goal
+## Goal
 Implement a tool that detects the subgroup of people who are most sensitive to marketing campaigns.
 
 ## Features
