@@ -16,5 +16,4 @@ Implement a tool that detects the subgroup of people who are most sensitive to m
 - Implementation machine learning algorithms for recommendation generation.
 - Model training.
 - Visualization of customer insights and marketing performance metrics.
-- Exporting recommendations and reports in different formats (e.g. CSV).
 - Scalable architecture to handle large datasets.
