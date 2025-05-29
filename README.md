@@ -1,4 +1,4 @@
-# ML-based Marketing
+# Smart Marketing
 ## Relevance
 In today's competitive business landscape, both small and large enterprises need to carefully consider their marketing plans. However, developing an effective marketing strategy can be challenging due to various factors. To address this challenge, businesses are increasingly turning to ML-based technologies and AI in marketing.
 
